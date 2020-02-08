@@ -5,7 +5,7 @@ Board schematic:
 ## Mouse Caught :)
 
 Example image taken from camera:
-![camera sample](https://github.com/PaulTR/GoCodeColorado-IoT-ML/blob/master/mice.jpg)
+![camera sample](https://github.com/khalidelaggan/machinelearning/blob/master/mice.jpg)
 
 
 Results from analysis
