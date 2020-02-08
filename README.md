@@ -2,9 +2,10 @@
 Board schematic:
 ![schematics](https://github.com/PaulTR/GoCodeColorado-IoT-ML/blob/master/schematic.png?raw=true)
 
+## Mouse Caught :)
 
 Example image taken from camera:
-![camera sample](https://github.com/PaulTR/GoCodeColorado-IoT-ML/blob/master/bear.jpg)
+![camera sample](https://github.com/PaulTR/GoCodeColorado-IoT-ML/blob/master/mice.jpg)
 
 
 Results from analysis
